@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import heroImage from '../../assets/petuk-ji-hero.jpg'
 
 const Hero = () => {
+    
     return (
         <div className='hero__main'>
             <div className="container mx-auto max-w-screen-xl py-20">
@@ -29,7 +30,7 @@ const Hero = () => {
                         </div>
                     </div>
                     <div className="hero__right">
-                        <div className="hero__image">
+                        <div className="hero__image"  data-aos="fade-left">
                             <img className='w-10/12 ml-auto' src={heroImage} alt="" />
                         </div>
                     </div>
