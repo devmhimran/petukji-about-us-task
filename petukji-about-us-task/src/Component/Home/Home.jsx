@@ -23,6 +23,7 @@ const Home = () => {
             <AppPreview/>
             <Demo/>
             <AppScreenShot/>
+            <About/>
         </div>
     );
 };
