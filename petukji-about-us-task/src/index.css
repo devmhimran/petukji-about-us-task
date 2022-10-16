@@ -11,10 +11,23 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-
 p {
     margin: 0;
 }
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px grey; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #3D8261; 
+    border-radius: 5px;
+  }
 .hero__main{
     background-image: url('../src/assets/hero__bg.png');
     background-position: center;
@@ -23,6 +36,7 @@ p {
     margin-top: -250px;
     padding-top: 250px;
 }
+
 .app__preview__main {
     background-image: url('./assets/app-bg.png');
     background-position: center;
