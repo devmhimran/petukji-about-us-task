@@ -15,7 +15,14 @@
 p {
     margin: 0;
 }
-
+.hero__main{
+    background-image: url('../src/assets/hero__bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -250px;
+    padding-top: 250px;
+}
 .app__preview__main {
     background-image: url('./assets/app-bg.png');
     background-position: center;
