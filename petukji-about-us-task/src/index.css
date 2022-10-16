@@ -127,3 +127,6 @@ p {
 -webkit-box-shadow: 7px 43px 76px 0px rgba(0,0,0,0.35);
 -moz-box-shadow: 7px 43px 76px 0px rgba(0,0,0,0.35);
 }
+.swiper-wrapper{
+    margin: 45px 0;
+}

@@ -14,7 +14,7 @@ const Hero = () => {
                                 <p className='py-3'>The best food delivery app with 3 version. Download and enjoy the app on Figma, XD & Sketch.</p>
                             </div>
                             <div className="download__button mt-3">
-                                <button className='px-5 py-2.5 bg-[#3D8361] text-white rounded-lg'>Download App</button>
+                                <a className='px-5 py-2.5 bg-[#3D8361] text-white rounded-lg' href='https://play.google.com/store/apps/details?id=com.ratzz.petuk' target='_blank'>Download App</a>
                             </div>
                             <div className="app__usage__info w-6/12 flex py-10">
                                 <div className="mr-6">

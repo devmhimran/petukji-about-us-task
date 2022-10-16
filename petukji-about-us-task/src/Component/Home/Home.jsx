@@ -8,6 +8,8 @@ import Feature from '../Feature/Feature';
 import AppPreview from '../AppPreview/AppPreview';
 import Demo from '../Demo/Demo';
 import AppScreenShot from '../AppScreenShot/AppScreenShot';
+import TeamMember from '../TeamMember/TeamMember';
+import Testimonials from '../Testimonials/Testimonials';
 
 const Home = () => {
     useEffect(()=>{
@@ -24,6 +26,8 @@ const Home = () => {
             <Demo/>
             <AppScreenShot/>
             <About/>
+            <Testimonials/>
+            <TeamMember/>
         </div>
     );
 };

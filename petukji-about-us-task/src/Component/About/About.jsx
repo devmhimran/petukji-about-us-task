@@ -6,7 +6,7 @@ const About = () => {
 
     return (
         <div className='about__main'>
-            <div className="container mx-auto max-w-screen-xl py-20">
+            <div className="container mx-auto max-w-screen-xl">
                 <div className="grid grid-cols-2 gap-8">
                     <div className="about__left">
                         <h1 className='text-5xl font-bold'>Listening to the heart of your tummy</h1>
