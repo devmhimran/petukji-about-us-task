@@ -9,7 +9,7 @@ const Feature = () => {
             <div className='container mx-auto max-w-screen-xl py-20'>
                 <div className="feature__heading">
                     <h1 className='text-5xl font-bold text-[#262524] text-center'>Our Awesome Features</h1>
-                    <p className='w-7/12 mx-auto my-6 text-[#5F6575] text-center'>We have 3 versoin of design on or app cusomer view, resturant view & pick up view. So, you don’t need to hire any other designers to make your app.</p>
+                    <p className='w-7/12 mx-auto my-6 text-[#5F6575] text-center'>We have 3 version of design on or app consumer view, restaurant view & pick up view. So, you don’t need to hire any other designers to make your app.</p>
                 </div>
                 <div className="grid grid-cols-3 gap-4 pt-6">
                     <div className="feature__card p-10 rounded-[30px] hover:bg-[#e1f4e2] duration-300">
