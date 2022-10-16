@@ -5,6 +5,7 @@ import Hero from '../Hero/Hero';
 import 'aos/dist/aos.css'
 import AOS from 'aos';
 import Feature from '../Feature/Feature';
+import AppPreview from '../AppPreview/AppPreview';
 
 const Home = () => {
     useEffect(()=>{
@@ -17,6 +18,7 @@ const Home = () => {
         <div>
             <Hero/>
             <Feature/>
+            <AppPreview/>
         </div>
     );
 };

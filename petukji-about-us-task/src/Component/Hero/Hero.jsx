@@ -10,7 +10,7 @@ const Hero = () => {
                     <div className="hero__left flex items-center">
                         <div className="hero__content">
                             <div className="hero__heading">
-                                <h1 className='text-[#262524] text-7xl leading-tight font-bold'>Street Food Restaurants's Food Sweet & More</h1>
+                                <h1 className='text-[#262524] text-6xl leading-tight font-bold'>Street Food Restaurants's Food Sweet & More</h1>
                                 <p className='py-3'>The best food delivery app with 3 version. Download and enjoy the app on Figma, XD & Sketch.</p>
                             </div>
                             <div className="download__button mt-3">
