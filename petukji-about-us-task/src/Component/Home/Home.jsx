@@ -7,6 +7,7 @@ import AOS from 'aos';
 import Feature from '../Feature/Feature';
 import AppPreview from '../AppPreview/AppPreview';
 import Demo from '../Demo/Demo';
+import AppScreenShot from '../AppScreenShot/AppScreenShot';
 
 const Home = () => {
     useEffect(()=>{
@@ -21,6 +22,7 @@ const Home = () => {
             <Feature/>
             <AppPreview/>
             <Demo/>
+            <AppScreenShot/>
         </div>
     );
 };
