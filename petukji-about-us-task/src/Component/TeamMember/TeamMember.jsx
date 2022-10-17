@@ -49,7 +49,7 @@ const TeamMember = () => {
         {
             "name": "Raghav Goyal",
             "img": "https://media-exp1.licdn.com/dms/image/C4E03AQEvtmmKLgKoqw/profile-displayphoto-shrink_200_200/0/1642923632349?e=1671667200&v=beta&t=7vHwL9bPZeegxQeyycgBfnlSrZEa4tpmBe7GzgWzF_A",
-            "job": "Student at Graphic Era Deemed to be University",
+            "job": "Student",
             "linkedIn": "https://www.linkedin.com/in/raghav-goyal-bba-geu/"
         },
         {
