@@ -28,11 +28,33 @@ const Footer = () => {
                         <p className='mt-3 text-[#3A9947] flex items-center my-2'> <span className='mr-2'><BsFillHouseDoorFill /></span> Petuk Ji Pvt. Ltd</p>
                         <p className='mt-3 text-gray-400 my-2'> MIET incubation Center, MIET, Admin Block, NH-58, Baghpat Road, Bypass Crossing, Meerut, U.P, <span className='text-[#3A9947]'>India.</span></p>
                         <p className='text-[#3A9947] text-xl flex items-center'>Petuk Ji :
-                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href="mailto: customer.care@petukji.in"><BsFillEnvelopeFill/></a>
-                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href='https://www.facebook.com/petukji.in'><AiFillFacebook/></a>
-                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href='https://www.youtube.com/channel/UCzi99e6_rOnvOzUP41Kyfng'><BsYoutube/></a>
+                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href="mailto: customer.care@petukji.in"><BsFillEnvelopeFill /></a>
+                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href='https://www.facebook.com/petukji.in'><AiFillFacebook /></a>
+                            <a className='text-gray-500 hover:text-[#3A9947] ml-3' href='https://www.youtube.com/channel/UCzi99e6_rOnvOzUP41Kyfng'><BsYoutube /></a>
                         </p>
                     </div>
+                </div>
+               
+
+            </div>
+            <hr className='border-gray-800' />
+            <div className="container mx-auto max-w-screen-xl py-4">
+                <div className="footer__text">
+                    <div className="footer__link flex justify-center mb-2">
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/TnC%20agreement.html">Terms</a>
+                        <div className="vr my-2 mx-3 h-2.5 w-px border border-gray-500"></div>
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/Privacy%20Policy%20Agreement.html">Privacy</a>
+                        <div className="vr my-2 mx-3 h-2.5 w-px border border-gray-500"></div>
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/GuidelinesandPolicies.html">Restaurant Partners TnC</a>
+                        <div className="vr my-2 mx-3 h-2.5 w-px border border-gray-500"></div>
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/Deliery%20Partner%20TnC.html">Delivery Partners TnC</a>
+                        <div className="vr my-2 mx-3 h-2.5 w-px border border-gray-500"></div>
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/Offers.html">Delivery Offer TnC</a>
+                        <div className="vr my-2 mx-3 h-2.5 w-px border border-gray-500"></div>
+                        <a className=' text-gray-500 hover:text-[#3A9947]' href="https://petukji.in/sitemap.html">Site Map</a>
+                    </div>
+                    
+                    <p className='text-gray-500 text-center'>© 2021-24 Petuk Ji Private Limited | All Rights Reserved</p>
                 </div>
             </div>
         </div>

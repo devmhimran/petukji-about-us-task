@@ -27,7 +27,7 @@ const NavMenu = () => {
                 color="blue-gray"
                 className="p-1 font-normal text-base hover:text-orange-600"
             >
-                <a href="#" className="flex items-center">
+                <a href="https://petukji.in/business-partner.html" className="flex items-center">
                     For Business Partner
                 </a>
             </Typography>
@@ -37,7 +37,7 @@ const NavMenu = () => {
                 color="blue-gray"
                 className="p-1 font-normal text-base hover:text-orange-600"
             >
-                <a href="#" className="flex items-center">
+                <a href="https://petukji.in/online-food-delivery-in-meerut.html" className="flex items-center">
                     For Delivery Partner
                 </a>
             </Typography>
@@ -47,7 +47,7 @@ const NavMenu = () => {
                 color="blue-gray"
                 className="p-1 font-normal text-base hover:text-orange-600"
             >
-                <a href="#" className="flex items-center">
+                <a href="https://petukji.in/deliveryPartner.html" className="flex items-center">
                     Other Services
                 </a>
             </Typography>
