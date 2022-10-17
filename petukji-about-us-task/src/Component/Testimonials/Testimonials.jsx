@@ -31,14 +31,12 @@ const Testimonials = () => {
                 >
                     <SwiperSlide>
                         <Card className="w-[360px]">
-                            <CardHeader color="blue" className="relative h-56">
-                                <img
-                                    src="/img/blog.jpg"
-                                    alt="img-blur-shadow"
-                                    className="h-full w-full"
-                                />
-                            </CardHeader>
                             <CardBody className="text-center">
+                            <img
+                                    src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png"
+                                    alt="img-blur-shadow"
+                                    className="w-24 mx-auto mb-3.5 rounded-full"
+                                />
                                 <Typography variant="h5" className="mb-2">
                                     Cozy 5 Stars Apartment
                                 </Typography>
