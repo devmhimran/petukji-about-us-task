@@ -5,6 +5,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Component/Home/Home'
 import NavMenu from './Component/NavMenu/NavMenu'
 import './Component/scroll'
+import Footer from './Component/Footer/Footer'
 
 function App() {
 
@@ -16,6 +17,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
+        <footer>
+          <Footer/>
+        </footer>
     </div >
 
   )

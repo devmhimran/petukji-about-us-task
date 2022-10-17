@@ -80,7 +80,7 @@ const Testimonials = () => {
                             reviewData.map((data, index) =>
                                 // <SwiperSlide>
 
-                                <Card className="w-[360px] mx-3 my-2" >
+                                <Card key={index} className="w-[360px] mx-3 my-2" >
                                     <CardBody className="text-center">
                                         <img
                                             src={data.img}
