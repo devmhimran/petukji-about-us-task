@@ -13,21 +13,21 @@ const Feature = () => {
                 </div>
                 <div className="grid grid-cols-3 gap-4 pt-6">
                     <div className="feature__card p-10 rounded-[30px] hover:bg-[#e1f4e2] duration-300">
-                        <div className="feature__icon border inline-block p-3.5 rounded-lg">
+                        <div className="feature__icon border border-gray-400 inline-block p-3.5 rounded-lg mb-3">
                             <RiMapPin5Line />
                         </div>
                         <h4 className='text-2xl font-semibold mt-2.5'>Faster Delivery</h4>
                         <p className='text-[#5F6575] mt-3 font-light'>On this version only rides can use this. They can pick up orders from restaurants and deliver to customers</p>
                     </div>
                     <div className="feature__card p-10 rounded-[30px] hover:bg-[#e1f4e2] duration-300">
-                        <div className="feature__icon border inline-block p-3.5 rounded-lg">
+                        <div className="feature__icon border border-gray-400 inline-block p-3.5 rounded-lg mb-3">
                             <GiForkKnifeSpoon />
                         </div>
                         <h4 className='text-2xl font-semibold'>Amazing App</h4>
                         <p className='text-[#5F6575] mt-3 font-light'>On this version only rides can use this. They can pick up orders from restaurants and deliver to customers</p>
                     </div>
                     <div className="feature__card p-10 rounded-[30px] hover:bg-[#e1f4e2] duration-300">
-                        <div className="feature__icon border inline-block p-3.5 rounded-lg">
+                        <div className="feature__icon border border-gray-400 inline-block p-3.5 rounded-lg mb-3">
                             <BsFillPeopleFill />
                         </div>
                         <h4 className='text-2xl font-semibold'>24/7 Support</h4>

@@ -60,8 +60,8 @@ const Testimonials = () => {
     ]
     return (
         <div className='testimonials'>
-            <div className="mx-auto">
-                <h1 className='text-5xl font-bold text-center'>What our client says</h1>
+            <div className="mx-auto py-20">
+                <h1 className='text-5xl font-bold text-center capitalize'>What our client says</h1>
                 {/* <Swiper
                     slidesPerView={3}
                     spaceBetween={30}

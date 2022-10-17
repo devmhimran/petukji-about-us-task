@@ -130,3 +130,9 @@ p {
 .swiper-wrapper{
     margin: 45px 0;
 }
+.about__main{
+    background-image: url('../src/assets/about__bg.svg');
+    background-position: center right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

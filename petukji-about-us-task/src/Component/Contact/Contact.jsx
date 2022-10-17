@@ -26,7 +26,7 @@ const Contact = () => {
                                         <Textarea className='h-40' color="teal" label="Message" />
                                     </div>
                                     <div className='form__input mb-6'>
-                                        <button type='submit' className='px-5 py-2.5 bg-[#3D8361] text-white rounded-lg'>Send</button>
+                                        <button type='submit' className='px-5 py-2.5 bg-[#3D8361] hover:bg-[#55af84] duration-300 text-white rounded-lg'>Send</button>
                                     </div>
                                 </form>
                             </div>
