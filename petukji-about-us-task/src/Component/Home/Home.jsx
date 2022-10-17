@@ -10,6 +10,7 @@ import Demo from '../Demo/Demo';
 import AppScreenShot from '../AppScreenShot/AppScreenShot';
 import TeamMember from '../TeamMember/TeamMember';
 import Testimonials from '../Testimonials/Testimonials';
+import Contact from '../Contact/Contact';
 
 const Home = () => {
     useEffect(()=>{
@@ -28,6 +29,7 @@ const Home = () => {
             <About/>
             <Testimonials/>
             <TeamMember/>
+            <Contact/>
         </div>
     );
 };
